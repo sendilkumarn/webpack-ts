@@ -1,0 +1,12 @@
+{
+  "name": "webpack-demo",
+  "version": "1.0.0",
+  "dependencies": {
+    "ts-loader": "^2.1.0",
+    "typescript": "^2.3.4",
+    "webpack": "^2.6.1"
+  },
+  "scripts": {
+    "webpack": "webpack --config webpack/webpack-config.js --display-error-details"
+  }
+}
